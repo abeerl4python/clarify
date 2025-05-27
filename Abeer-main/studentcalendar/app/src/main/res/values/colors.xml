@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#B3A1DE</color>
+    <color name="purple_500">#816E9E</color>
+    <color name="purple_700">#573376</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom colors -->
+    <color name="date_card_default">#F8F8F8</color>
+    <color name="date_card_selected">#B3A1DE</color>
+    <color name="text_primary">#717171</color>
+    <color name="text_secondary">#80000000</color>
+    <color name="timer_button_default">#EFEFEF</color>
+    <color name="timer_button_selected">#CFC3F9</color>
+    <color name="task_science">#B29CD3</color>
+    <color name="task_maths">#FF97C1</color>
+
+    <color name="purple_light">#CFC3F9</color>
+    <color name="purple_medium">#B3A1DE</color>
+    <color name="purple_dark">#573376</color>
+    <color name="gray_light">#F8F8F8</color>
+    <color name="gray_dark">#717171</color>
+    <color name="gray_transparent">#80000000</color>
+    <color name="chip_unselected">#EFEFEF</color>
+    <color name="chip_selected">#CAB9FF</color>
+    <color name="background_light">#F8F8F8</color>
+    <color name="purple_primary">#8C6CD8</color>
+
+    <color name="selected_date_color">#B3A1DE</color>
+    <color name="selected_date_text_color">#EDEDED</color>
+    <color name="unselected_date_color">#F8F8F8</color>
+    <color name="unselected_date_text_color">#717171</color>
+    <color name="unselected_date_day_color">#80000000</color>
+
+    <color name="selected_reminder_chip_color">#CAB9FF</color>
+    <color name="unselected_reminder_chip_color">#EFEFEF</color>
+    <color name="unselected_reminder_chip_text">#80000000</color>
+
+
+    <!-- Custom colors -->
+    <color name="chip_selected_color">#CAB9FF</color>
+    <color name="chip_unselected_color">#EFEFEF</color>
+    <color name="primary_purple">#573376</color>
+    <color name="light_purple">#B3A1DE</color>
+    <color name="lighter_purple">#E6E0FF</color>
+
+    <!-- popup task chip colors -->
+    <color name="chip_priority_high">#FF5252</color>
+    <color name="chip_priority_medium">#FFD740</color>
+    <color name="chip_priority_low">#69F0AE</color>
+
+    <!-- Calendar colors -->
+    <color name="date_card_today">#573376</color>
+
+    <color name="date_text_default">#717171</color>
+    <color name="date_text_has_events">#573376</color>
+
+    <color name="splash_background">#CCECA7FF</color>
+
+    <color name="accent_color">#007BFF</color>
+
+</resources>
